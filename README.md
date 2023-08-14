@@ -10,7 +10,7 @@
 ## 📁 Deliverables
 
 1. [**EDA Notebook**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/G2M%20insight%20for%20Cab%20Investment%20firm.ipynb)
-2. [**Data Intake Report**]()
+2. [**Data Intake Report**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/Data%20Intake%20Report_VI%20(1).pdf)
 3. [**EDA Recommendation and Hypothesis Results**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/EDA%20-%20Recommender%20System.ipynb)
 
 
@@ -35,11 +35,43 @@ EDA - Exploratory Data Analysis:
 
 ## 📋 Analysis Plan
 
-- Formulate hypotheses.
-- Engage with the data.
-- Apply critical thinking and utilize various analytical approaches to derive unique insights.
+### 1. Objective Definition
+- Define the primary objective of the analysis: Determine which taxi company would be a better investment for XYZ company.
+- Understand secondary objectives: Demographic usage patterns, city-specific taxi company popularity, etc.
+
+### 2. Formulate Hypotheses
+- Hypothesize potential factors affecting taxi company success.
+- Develop hypotheses on demographic preferences and city-specific trends.
+
+### 3. Data Collection and Preprocessing
+- Collect relevant data from trusted sources.
+- Clean and preprocess the data for analysis, including removing duplicates and filling missing values.
+
+### 4. Engage with the Data
+- Explore the data through visualizations, descriptive statistics, and preliminary analysis.
+- Identify patterns, outliers, and potential biases.
+
+### 5. Apply Analytical Approaches
+- Utilize statistical methods to test hypotheses.
+- Employ machine learning models if necessary to predict future trends.
+
+### 6. Industry Research
 - Conduct research on the overall cab industry in the US.
-- ... (other steps)
+- Understand external factors influencing user behavior, such as regulations, technological advancements, or social factors.
+
+### 7. Demographic Analysis
+- Segment the data based on demographics.
+- Analyze which demographic groups use taxis more frequently.
+
+### 8. City-specific Analysis
+- Break down data by cities to identify the most popular taxi companies.
+- Compare findings across cities to identify regional patterns.
+
+### 9. Synthesize Insights
+- Combine findings to derive holistic insights.
+- Develop actionable recommendations for XYZ company.
+
+
 
 
 
