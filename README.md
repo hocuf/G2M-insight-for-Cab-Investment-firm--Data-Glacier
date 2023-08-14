@@ -10,8 +10,8 @@
 ## 📁 Deliverables
 
 1. [**EDA Notebook**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/G2M%20insight%20for%20Cab%20Investment%20firm.ipynb)
-2. **Data Intake Report**:
-3. [**EDA Recommendation and Hypothesis Results**]([https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/G2M%20insight%20for%20Cab%20Investment%20firm.ipynb](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/EDA%20-%20Recommender%20System.ipynb))
+2. [**Data Intake Report**]()
+3. [**EDA Recommendation and Hypothesis Results**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/EDA%20-%20Recommender%20System.ipynb)
 
 
 ## 📊 Data Set
