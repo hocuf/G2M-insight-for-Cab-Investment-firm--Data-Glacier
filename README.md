@@ -1,7 +1,7 @@
 # XYZ Cab Industry Analysis 🚖
 
-![Cab Banner](![image](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/assets/92105996/bc71bb1f-199f-4df0-87da-b977ad462745)
-)
+![image](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/assets/92105996/dde256a1-7502-43cb-80c6-8eb2d41592a0)
+
 
 ## 🌐 Project Overview
 
