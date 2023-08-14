@@ -1,6 +1,7 @@
 # XYZ Cab Industry Analysis 🚖
 
-![Cab Banner](https://path-to-image-banner-if-you-have-one.jpg)
+![Cab Banner](![image](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/assets/92105996/bc71bb1f-199f-4df0-87da-b977ad462745)
+)
 
 ## 🌐 Project Overview
 
@@ -17,7 +18,7 @@ The data spans from 31/01/2016 to 31/12/2018. Here's a list of datasets provided
 
 ## 🔗 Important Links
 
-- **Sample Presentation**: [Drive Link](https://drive.google.com/drive/folders/1-QPbo40JcZg_SgmpGxWZwvKrW2s24syR?usp=sharing)
+- **Used Datasets**: [Drive Link](https://drive.google.com/drive/folders/1-QPbo40JcZg_SgmpGxWZwvKrW2s24syR?usp=sharing)
 
 ## 📌 Examples
 
