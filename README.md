@@ -7,6 +7,11 @@
 
 **XYZ** is a private firm operating in the US. Due to the remarkable growth observed in the Cab Industry in recent years and with multiple major players in the market, it is planning an investment in this sector. As per their Go-to-Market (G2M) strategy, they wish to understand the market prior to making their final decision.
 
+## 📋 Project Presentation 
+
+[**Week 3 Presentation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/Presentation_week_3.pptx)
+
+
 ## 📁 Deliverables
 
 1. [**EDA Notebook**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/G2M%20insight%20for%20Cab%20Investment%20firm.ipynb)
