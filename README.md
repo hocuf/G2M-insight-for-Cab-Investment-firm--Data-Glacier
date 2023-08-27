@@ -11,6 +11,9 @@
 
 * [**Week 3 Presentation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/Presentation_week_3.pptx)
 
+## 🌐 Flask Deployment
+
+[**Flask**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
 
 ## 📁 Deliverables
 
