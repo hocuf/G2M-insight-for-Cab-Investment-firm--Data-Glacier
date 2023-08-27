@@ -13,7 +13,7 @@
 
 ## 🌐 Flask Deployment
 
-[**Week 4 Assignment: Flask**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
+* [**Week 4 Assignment: Flask**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
 
 ## 📁 Deliverables
 
