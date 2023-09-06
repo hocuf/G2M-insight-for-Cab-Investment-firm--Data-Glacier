@@ -32,7 +32,7 @@ The machine learning model is deployed on AWS (Amazon Web Services) using an EC2
 3. Run the Flask application on the EC2 instance.
 
 ### API Usage PDF
-* [**Week 5 Assignment: Cloud & API**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
+* [**Week 5 Assignment: Cloud & API**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w5_assignment.pdf)
 
 ## 📊 Data Set
 
