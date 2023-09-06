@@ -20,6 +20,19 @@
 2. [**Data Intake Report**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/Data%20Intake%20Report_VI%20(1).pdf)
 3. [**EDA Recommendation and Hypothesis Results**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/EDA%20-%20Recommender%20System.ipynb)
 
+## ☁️ Cloud Deployment and API Usage
+
+### Cloud Deployment
+
+The machine learning model is deployed on AWS (Amazon Web Services) using an EC2 instance. This allows anyone to interact with the model via an API, making it highly accessible and easy to integrate into different applications.
+
+**Deployment Steps:**
+1. Create an EC2 instance in AWS.
+2. Upload the Flask application and ML model to EC2.
+3. Run the Flask application on the EC2 instance.
+
+### API Usage PDF
+* [**Week 5 Assignment: Cloud & API**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
 
 ## 📊 Data Set
 
