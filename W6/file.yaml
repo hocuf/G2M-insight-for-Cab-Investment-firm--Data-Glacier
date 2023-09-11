@@ -1,0 +1,19 @@
+file_type: csv
+dataset_name: weather_data
+inbound_delimiter: ","
+outbound_delimiter: "|"
+columns:
+  - eventid
+  - type
+  - severity
+  - start_time_utc
+  - end_time_utc
+  - precipitation_in
+  - timezone
+  - airportcode
+  - locationlat
+  - locationlng
+  - city
+  - county
+  - state
+  - zipcode
