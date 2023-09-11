@@ -9,15 +9,15 @@
 
 ## 📋 Project Presentation 
 
-* [**Week 3 Presentation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/Presentation_week_3.pptx)
+* [**Week 3: Presentation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/Presentation_week_3.pptx)
 
 ## 🌐 Flask Deployment
-* [**Week 4 Assignment: Flask**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
+* [**Week 4: Flask**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
 
 
 
 ## 📂 File Ingestion and Schema Validation
-* [**Week 6 File ingestion and schema validation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/tree/main/W6)
+* [**Week 6: File ingestion and schema validation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/tree/main/W6)
 
 
 
