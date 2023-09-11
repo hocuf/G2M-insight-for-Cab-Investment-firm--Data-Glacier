@@ -17,7 +17,7 @@
 
 
 ## 📂 File Ingestion and Schema Validation
-* [**Week 6: File ingestion and schema validation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/tree/main/W6)
+* [**Week 6 File ingestion and schema validation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/tree/main/W6)
 
 
 
