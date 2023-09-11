@@ -14,6 +14,16 @@
 ## 🌐 Flask Deployment
 * [**Week 4 Assignment: Flask**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/w4_assignment.pdf)
 
+
+
+## 📂 File Ingestion and Schema Validation
+
+For this project, the process of ingesting data and ensuring its schema validity was a crucial step in our analysis. Here are the details and links related to this aspect of our project:
+
+* [**Week 6: File ingestion and schema validation**](link-to-your-data-ingestion-notebook)
+
+
+
 ## 📁 Deliverables
 
 1. [**EDA Notebook**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/blob/main/G2M%20insight%20for%20Cab%20Investment%20firm.ipynb)
