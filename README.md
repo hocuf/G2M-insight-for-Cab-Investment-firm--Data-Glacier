@@ -17,10 +17,7 @@
 
 
 ## 📂 File Ingestion and Schema Validation
-
-For this project, the process of ingesting data and ensuring its schema validity was a crucial step in our analysis. Here are the details and links related to this aspect of our project:
-
-* [**Week 6: File ingestion and schema validation**](link-to-your-data-ingestion-notebook)
+* [**Week 6: File ingestion and schema validation**](https://github.com/hocuf/G2M-insight-for-Cab-Investment-firm--Data-Glacier/tree/main/W6)
 
 
 
